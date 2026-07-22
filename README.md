@@ -228,7 +228,8 @@ When replacing manual `CronRadar::monitor()` calls, keep each existing monitor k
 
 ## Links
 
-- **Documentation:** [docs.cronradar.com](https://docs.cronradar.com)
+- **Documentation:** [docs.cronradar.com/integrations/laravel](https://docs.cronradar.com/integrations/laravel)
+- **Monitoring overview:** [cronradar.com/laravel](https://cronradar.com/laravel)
 - **Agent-friendly index:** [docs.cronradar.com/llms.txt](https://docs.cronradar.com/llms.txt)
 - **OpenAPI spec:** [docs.cronradar.com/openapi.json](https://docs.cronradar.com/openapi.json)
 - **Packagist:** [packagist.org/packages/cronradar/laravel](https://packagist.org/packages/cronradar/laravel)

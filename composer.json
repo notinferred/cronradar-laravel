@@ -1,13 +1,13 @@
 {
     "name": "cronradar/laravel",
-    "version": "0.1.0",
-    "description": "Monitor Laravel scheduled tasks with selective or MonitorAll modes. Auto-discovers keys and schedules.",
-    "keywords": ["laravel", "cron", "monitoring", "scheduler", "task", "scheduled", "artisan"],
+    "description": "Detect missed and failed Laravel scheduled tasks with automatic schedule discovery and execution tracking.",
+    "keywords": ["laravel", "scheduler", "scheduled-tasks", "monitoring", "missed-jobs", "failed-jobs", "artisan"],
+    "homepage": "https://cronradar.com/laravel",
     "license": "proprietary",
     "authors": [
         {
-            "name": "Administrator",
-            "email": "contact@cronradar.com"
+            "name": "CronRadar",
+            "email": "support@cronradar.com"
         }
     ],
     "require": {
