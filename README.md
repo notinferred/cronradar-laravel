@@ -7,10 +7,10 @@ Built on top of the [`cronradar/php`](https://packagist.org/packages/cronradar/p
 ## Install
 
 ```bash
-composer require cronradar/laravel
+composer require "cronradar/laravel:^0.1.1"
 ```
 
-PHP 8.0+. Laravel 10, 11, and 12 supported. Auto-discovery via Laravel's package manifest — no `config/app.php` registration required.
+PHP 8.1+ (Laravel 11 and 12 require PHP 8.2+). Laravel 10, 11, and 12 supported. Auto-discovery via Laravel's package manifest — no `config/app.php` registration required. Version 0.1.1 accepts the PHP base SDK 0.1.x.
 
 ## Setup
 

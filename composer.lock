@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "12f520052cd2824b09cfc35ecf088086",
+    "content-hash": "218bd9ce44e9187dff933196be71ccbb",
     "packages": [
         {
             "name": "brick/math",
@@ -137,16 +137,16 @@
         },
         {
             "name": "cronradar/php",
-            "version": "0.0.6",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cronradar/cronradar-php.git",
-                "reference": "af034665ee9c1f331c24380f0b9e968b137fa90a"
+                "reference": "4caa0828984ce32989a354b1edd31175d1324581"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cronradar/cronradar-php/zipball/af034665ee9c1f331c24380f0b9e968b137fa90a",
-                "reference": "af034665ee9c1f331c24380f0b9e968b137fa90a",
+                "url": "https://api.github.com/repos/cronradar/cronradar-php/zipball/4caa0828984ce32989a354b1edd31175d1324581",
+                "reference": "4caa0828984ce32989a354b1edd31175d1324581",
                 "shasum": ""
             },
             "require": {
@@ -160,7 +160,6 @@
                     "CronRadar\\": "src/"
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "proprietary"
             ],
@@ -170,22 +169,7 @@
                     "email": "contact@cronradar.com"
                 }
             ],
-            "description": "Dead-simple cron job monitoring with auto-registration. One primary function: monitor(). Advanced: sync(). Self-healing monitors.",
-            "keywords": [
-                "auto-register",
-                "cron",
-                "job",
-                "monitoring",
-                "ping",
-                "scheduler",
-                "sync",
-                "task"
-            ],
-            "support": {
-                "issues": "https://github.com/cronradar/cronradar-php/issues",
-                "source": "https://github.com/cronradar/cronradar-php/tree/v0.0.6"
-            },
-            "time": "2025-11-08T19:14:08+00:00"
+            "description": "Dead-simple cron job monitoring with auto-registration. One primary function: monitor(). Advanced: sync(). Self-healing monitors."
         },
         {
             "name": "dflydev/dot-access-data",
