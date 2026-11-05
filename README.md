@@ -239,4 +239,4 @@ When replacing manual `CronRadar::monitor()` calls, keep each existing monitor k
 
 ## License
 
-© 2026 [CronRadar](https://cronradar.com) · Proprietary — see [LICENSE](./LICENSE).
+© 2026 [CronRadar](https://cronradar.com) · MIT — see [LICENSE](./LICENSE).
