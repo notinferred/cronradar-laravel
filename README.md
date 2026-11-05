@@ -10,7 +10,7 @@ Built on top of the [`cronradar/php`](https://packagist.org/packages/cronradar/p
 composer require "cronradar/laravel:^0.1.1"
 ```
 
-PHP 8.1+ (Laravel 11 and 12 require PHP 8.2+). Laravel 10, 11, and 12 supported. Auto-discovery via Laravel's package manifest — no `config/app.php` registration required. Version 0.1.1 accepts the PHP base SDK 0.1.x.
+PHP 8.1+ (Laravel 11 and later require PHP 8.2+). Laravel 10, 11, 12, and 13 supported. Auto-discovery via Laravel's package manifest — no `config/app.php` registration required. Version 0.1.1 accepts the PHP base SDK 0.1.x.
 
 ## Setup
 
@@ -181,7 +181,7 @@ Macro registration didn't run. Causes:
 
 - Service provider registration failed (check `php artisan package:discover`).
 - You're calling `->skipMonitor()` on something other than `Illuminate\Console\Scheduling\Event` (e.g., a closure result).
-- The package version is mismatched against your Laravel version. Confirm Laravel 10/11/12 and `cronradar/laravel` ^1.0.
+- The package version is mismatched against your Laravel version. Confirm Laravel 10/11/12/13 and `cronradar/laravel` ^1.0.
 
 ### `php artisan schedule:run` works in production but tasks never re-monitor after a deploy
 
