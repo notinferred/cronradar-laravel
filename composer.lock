@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "13b2fe06550ee174b2034f263b4e1b43",
+    "content-hash": "72481b4284641725ba6dd6dc2e5891f1",
     "packages": [
         {
             "name": "brick/math",
@@ -145,12 +145,12 @@
             "version": "0.1.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/cronradar/cronradar-php.git",
+                "url": "https://github.com/notinferred/cronradar-php.git",
                 "reference": "4caa0828984ce32989a354b1edd31175d1324581"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cronradar/cronradar-php/zipball/4caa0828984ce32989a354b1edd31175d1324581",
+                "url": "https://api.github.com/repos/notinferred/cronradar-php/zipball/4caa0828984ce32989a354b1edd31175d1324581",
                 "reference": "4caa0828984ce32989a354b1edd31175d1324581",
                 "shasum": ""
             },
